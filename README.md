@@ -1,0 +1,2 @@
+# kamis.js
+kamis
